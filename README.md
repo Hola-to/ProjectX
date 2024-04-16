@@ -1,1 +1,1 @@
-# ProjectX
+# 10 laba 1 variant
