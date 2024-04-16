@@ -127,8 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="deque.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="main_deque.cpp" />
+    <ClCompile Include="main_queue.cpp" />
     <ClCompile Include="main_stack.cpp" />
+    <ClCompile Include="queue.cpp" />
     <ClCompile Include="stack.cpp" />
   </ItemGroup>
   <ItemGroup>

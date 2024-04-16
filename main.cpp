@@ -9,6 +9,10 @@ int main()
 	{
 	case 1: main_stack();
 		break;
+	case 2: main_queue();
+		break;
+	case 3: main_deque();
+		break;
 	default: cout << "Выберите число от 1 до 3";
 		break;
 	}
